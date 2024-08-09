@@ -22,7 +22,6 @@ Punto de venta para productos relacionados con la industria alimenticia y la pre
 -   Opción para realizar venta, agregando productos
 -   Comprobación de existencia de inventario al vender
 -   Resta de existencia al vender
--   Impresión de tickets de venta en impresora
 -   Reporte de ventas
 -   Inicio de sesión y registro de usuarios
 
